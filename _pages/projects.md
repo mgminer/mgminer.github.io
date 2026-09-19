@@ -65,7 +65,7 @@ horizontal: false
 **Policy & Media**
 
 * [Kenya’s Peacebuilding Efforts Hold Valuable Lessons for the Rest of the World, but Gaps Remain](https://theconversation.com/kenyas-peacebuilding-efforts-hold-valuable-lessons-for-the-rest-of-the-world-but-gaps-remain-257761). 2025. *The Conversation*. With Leonor Toscano and Jana Krause.
-* [Internet Shutdowns Shutting Down Democracy](https://vdem.net/media/publications/PB_40.pdf). 2024. European Commission Policy Brief. With Natalia Natsika and Staffan Lindberg.
+* [Internet Shutdowns Shutting Down Democracy](/assets/pdf/PB_40.pdf). 2024. European Commission Policy Brief. With Natalia Natsika and Staffan Lindberg.
 * [The Worrying Trend of Internet Shutdowns in India](https://ucigcc.org/blog/the-worrying-trend-of-internet-shutdowns-in-india/). 2023. *IGCC Blog*.
 * [UN Peacekeeping: The Power of Participation](https://www.iar-gwu.org/blog/2018/02/23/un-peacekeeping-the-power-of-participation). 2018. *The International Affairs Review*.
 * [The National Anthem Law: Taking a Principled Approach](https://www.iar-gwu.org/blog/2018/02/20/the-national-anthem-law-taking-a-principled-approach). 2018. *The International Affairs Review*.
