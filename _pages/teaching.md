@@ -13,11 +13,11 @@ nav_order: 3
 
 **Courses as Teaching Assistant**
 
-* Introduction to Comparative Politics (Spring 2022)
-* Experiments in Social Change (Fall 2021, Fall 2022)
+* Introduction to Comparative Politics
+* Experiments in Social Change
 * Comparative Electoral Systems
-* The Scientific Study of Politics (Winter 2022, Winter 2021)
-* The Scientific Study of War (Spring 2019)
+* The Scientific Study of Politics
+* The Scientific Study of War
 * International Political Economy
-* Political Psychology (Fall 2020)
-* Ballots, Bucks, and Maps (Winter 2018)
+* Political Psychology
+* Ballots, Bucks, and Maps
