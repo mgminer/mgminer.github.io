@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Kerr Hall 577</p>
-    <p>1 Shields Avenue</p>
-    <p>Davis, CA 95616</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
