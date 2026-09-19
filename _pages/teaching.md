@@ -6,7 +6,12 @@ description:
 nav: true
 nav_order: 3
 ---
-**Teaching Assistant at UC Davis**
+**Courses as Instructor**
+
+* Honors American Government
+* Media and Politics
+
+**Courses as Teaching Assistant**
 
 * Introduction to Comparative Politics (Spring 2022)
 * Experiments in Social Change (Fall 2021, Fall 2022)
