@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Political Scientist
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher, <a href='https://www.uio.no/english/'>University of Oslo</a>
 
